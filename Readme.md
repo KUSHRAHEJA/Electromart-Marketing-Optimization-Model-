@@ -17,4 +17,3 @@
     4. eda
     5. Model
 
-Github -- https://github.com/AlexSlayer69/GCDATA2025
